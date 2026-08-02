@@ -24,11 +24,10 @@ Las transformaciones se realizaron en el siguiente orden:
 1. Importación del archivo Excel en Power BI Desktop.
 2. Renombrado de las columnas utilizando nombres descriptivos.
 3. Corrección de los tipos de datos.
-4. Reemplazo de los valores nulos de la columna **descuento** por **0**.
-5. Eliminación de registros duplicados.
-6. Limpieza de espacios en blanco y caracteres innecesarios mediante las funciones **Trim** y **Clean**.
-7. Normalización de la información separando los datos en distintas tablas.
-8. Creación del modelo relacional.
+4. Eliminación de registros duplicados.
+5. Limpieza de espacios en blanco y caracteres innecesarios mediante las funciones **Trim** y **Clean**.
+6. Normalización de la información separando los datos en distintas tablas.
+7. Creación del modelo relacional.
 
 ---
 
